@@ -21,10 +21,10 @@ O projeto utiliza o banco de dados **db.sqlite3**. Alguns nomes de usuários e s
 ## Funcionalidades e Detalhes
 Abaixo estão os passos e funcionalidades da plataforma, cada um acompanhado por imagens para melhor compreensão:
 
-1. Iniciando a Aplicação:
+1) Iniciando a Aplicação:
 Após rodar o servidor e clicar no link no terminal, a página será aberta no localhost, iniciando com a seguinte interface:
 
-![image](https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/e4fc34d3-5d08-4d37-aaeb-d937cd2fc717)
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/e4fc34d3-5d08-4d37-aaeb-d937cd2fc717" alt="Descrição da Imagem" width="300" height="200">
 
 2. Cadastro de Usuário:
 Crie um novo nome de usuário e senha para se registrar.
