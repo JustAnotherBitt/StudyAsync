@@ -2,7 +2,7 @@
 ## Descrição
 Este projeto é uma plataforma de estudos interativa onde os usuários podem criar flashcards, organizá-los por categoria e dificuldade, e iniciar desafios para testar seus conhecimentos. A plataforma também fornece insights de desempenho por meio de gráficos detalhados, permitindo que os usuários acompanhem efetivamente seu progresso de aprendizado.
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando **Python** com o framework **Django**. Também houve um trabalho significativo com HTML, CSS e JavaScript para estruturar as páginas, mas a principal linguagem utilizada é Python.
 
 ## Executando o Projeto
@@ -15,13 +15,13 @@ Clique no link que aparecerá no terminal para abrir a página no localhost:
 
 ![image](https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/2ab6a156-6292-48f0-b7ab-3cdd3eecaa0e)
 
-### Banco de Dados
+## Banco de Dados
 O projeto utiliza o banco de dados **db.sqlite3**. Alguns nomes de usuários e senhas foram pré-criados para fins de teste e estão salvos no banco de dados.
 
 ## Funcionalidades e Detalhes
 Abaixo estão os passos e funcionalidades da plataforma, cada um acompanhado por imagens para melhor compreensão:
 
-1. **Iniciando a Aplicação:**
+## 1. **Iniciando a Aplicação:**
 Após rodar o servidor e clicar no link no terminal, a página será aberta no localhost, iniciando com a seguinte interface:
 <p align="center">
 <img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/e4fc34d3-5d08-4d37-aaeb-d937cd2fc717" alt="Descrição da Imagem" width="900">
