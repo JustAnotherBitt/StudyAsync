@@ -5,6 +5,11 @@ Este projeto é uma plataforma de estudos interativa onde os usuários podem cri
 ## Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando **Python** com o framework **Django**. Também houve um trabalho significativo com HTML, CSS e JavaScript para estruturar as páginas, mas a principal linguagem utilizada é Python.
 
+## Recomendações 
+- Ter o <a href="https://code.visualstudio.com">Visual Studio Code</a> instalado.  
+- Utilizar a extensão *SQLite Viewer* para melhor visualização do banco de dados.
+- Rodar o código dentro do ambiente virtual.
+
 ## Executando o Projeto
 Para rodar o projeto, é recomendável usar um **ambiente virtual**. Siga estes passos:
 
@@ -120,12 +125,6 @@ Clicando na opção *Apostilas* no cabeçalho da página, você será redirecion
 
 ### 12. **Visualizações de Apostilas:**
 Cada vez que a apostila for visualizada, o contador *views totais* é atualizado.
-
-
-## Recomendações
-- Ter o <a href="https://code.visualstudio.com">Visual Studio Code</a> instalado.  
-- Utilizar a extensão *SQLite Viewer* para melhor visualização do banco de dados.
-- Rodar o código dentro do ambiente virtual.
 
 ### Informações Adicionais
 Sinta-se à vontade para explorar e contribuir com este projeto. Seu feedback e sugestões são altamente apreciados.
