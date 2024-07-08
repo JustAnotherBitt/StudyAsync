@@ -26,6 +26,7 @@ Após rodar o servidor e clicar no link no terminal, a página será aberta no l
 <p align="center">
 <img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/e4fc34d3-5d08-4d37-aaeb-d937cd2fc717" alt="Descrição da Imagem" width="900">
 </p>
+
 2. **Cadastro de Usuário:**
 Crie um novo nome de usuário e senha para se registrar.
 
