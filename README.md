@@ -23,16 +23,18 @@ Abaixo estão os passos e funcionalidades da plataforma, cada um acompanhado por
 
 ### 1. **Iniciando a Aplicação:**
 Após rodar o servidor e clicar no link no terminal, a página será aberta no localhost, iniciando com a seguinte interface:
-
-<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/e4fc34d3-5d08-4d37-aaeb-d937cd2fc717" alt="Descrição da Imagem" width="900">
-
+<p align="center">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/e4fc34d3-5d08-4d37-aaeb-d937cd2fc717" alt="" width="900">
+</p>
 
 ### 2. **Cadastro de Usuário:**
 Crie um novo nome de usuário e senha para se registrar.
 
 *Obs: Se o nome de usuário já estiver registrado, você será redirecionado para a página de login.*
 
-![image](https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/8a70b7c6-3d9c-4d98-9bcd-9a20e7471644)
+<p align="center">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/8a70b7c6-3d9c-4d98-9bcd-9a20e7471644" alt="" width="900">
+</p>
 
 ### 3. **Segurança das Senhas:**
 As senhas são armazenadas no banco de dados e protegidas usando PBKDF2 (Password-Based Key Derivation Function 2) com o algoritmo de hash SHA-256.
