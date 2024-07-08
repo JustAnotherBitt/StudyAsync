@@ -39,26 +39,34 @@ Crie um novo nome de usuário e senha para se registrar.
 ### 3. **Segurança das Senhas:**
 As senhas são armazenadas no banco de dados e protegidas usando PBKDF2 (Password-Based Key Derivation Function 2) com o algoritmo de hash SHA-256.
 
-![image](https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/d44a1c56-f527-4647-91e0-0c28f32590e3)
+<p align="center">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/d44a1c56-f527-4647-91e0-0c28f32590e3" alt="" width="200">
+</p>
+
 
 ### 4. **Acesso à Página Inicial:**
 Após fazer o login, você terá acesso à página inicial da plataforma.
 
-![image](https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/cc81a4a2-b4c9-4efd-9a5d-7af053d088d6)
+<p align="center">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/cc81a4a2-b4c9-4efd-9a5d-7af053d088d6" alt="" width="900">
+</p>
 
 ### 5. **Opções de Flashcard:**
 Clicando na opção *Flashcard* no menu, você pode escolher entre várias opções, sendo *Criar Flashcard* a página inicial.
-
+<p align="center">
 ![image](https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/3a960ff4-8642-4e67-8d4e-578656d92168)
+</p>
 
 ### 6. **Criando Flashcards:**
 Na página inicial da plataforma (Criar Flashcard), você pode criar seus próprios flashcards, escolhendo entre três categorias disponíveis (Português, Matemática e Programação) e três níveis de dificuldade (Fácil, Médio, Difícil). Basta criar a pergunta, digitar a resposta, categorizar e clicar em *enviar*. O flashcard criado aparecerá ao lado do container. 
-
-![image](https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/2a051299-252e-4e75-bfe6-4ed395b32c8c)
+<p align="center">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/2a051299-252e-4e75-bfe6-4ed395b32c8c" alt="" width="900">
+</p>
 
 *Obs: Você pode filtrar seus flashcards para visualizar melhor o que já criou.*
-
-![image](https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/9f511bfd-df27-4314-9ca8-43c0dca0ebd7)
+<p align="center">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/9f511bfd-df27-4314-9ca8-43c0dca0ebd7" alt="" width="500">
+</p>
 
 ### 7. **Iniciando um Desafio:**
 Clicando na opção "Iniciar Desafio", você poderá escolher uma categoria, dificuldade e quantidade de questões, conforme os flashcards que você já criou.
