@@ -14,7 +14,7 @@ Execute o servidor com o comando: `python manage.py runserver`
 Clique no link que aparecerá no terminal para abrir a página no localhost:
 
 <p align="center">
-<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/f8007554-9e28-472c-8f2c-ff01dd8d041d" alt="" width="400">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/f8007554-9e28-472c-8f2c-ff01dd8d041d" alt="" width="600">
 </p>
 
 ## Banco de Dados
@@ -122,7 +122,7 @@ Clicando na opção *Apostilas* no cabeçalho da página, você será redirecion
 Cada vez que a apostila for visualizada, o contador de *visualizações totais* é atualizado.
 
 <p align="center">
-<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/8919b27b-9724-4cd1-b8e8-8d5cb6630a73" alt="" width="900">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/8919b27b-9724-4cd1-b8e8-8d5cb6630a73" alt="" width="400">
 </p>
 
 
