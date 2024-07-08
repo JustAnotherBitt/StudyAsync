@@ -33,7 +33,7 @@ Crie um novo nome de usuário e senha para se registrar.
 *Obs: Se o nome de usuário já estiver registrado, você será redirecionado para a página de login.*
 
 <p align="center">
-<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/8a70b7c6-3d9c-4d98-9bcd-9a20e7471644" alt="" width="900">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/8a70b7c6-3d9c-4d98-9bcd-9a20e7471644" alt="" width="500">
 </p>
 
 ### 3. **Segurança das Senhas:**
