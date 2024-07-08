@@ -13,7 +13,9 @@ Execute o servidor com o comando: `python manage.py runserver`
 
 Clique no link que aparecerá no terminal para abrir a página no localhost:
 
-![image](https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/2ab6a156-6292-48f0-b7ab-3cdd3eecaa0e)
+<p align="center">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/f8007554-9e28-472c-8f2c-ff01dd8d041d" alt="" width="400">
+</p>
 
 ## Banco de Dados
 O projeto utiliza o banco de dados **db.sqlite3**. Alguns nomes de usuários e senhas foram pré-criados para fins de teste e estão salvos no banco de dados.
@@ -108,7 +110,7 @@ Após responder, as perguntas ficam mais escuras e você pode analisar o gráfic
 Clicando na opção *Apostilas* no cabeçalho da página, você será redirecionado para uma página onde é possível ver as apostilas existentes em sua conta ou adicionar novas. Quando uma apostila for adicionada, você poderá clicar em *Abrir* para visualizar a apostila clicando em sua capa (espere alguns segundos para a apostila carregar).
 
 <p align="center">
-<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/e7b240df-22b0-4e6a-b7fc-08bf2c0ca262" alt="" width="900">
+<img src="https://github.com/LeRodrigues2005/StudyAsync/assets/97632543/c6332ba8-ca6c-49b1-9353-72466e4ee9f8" alt="" width="400">
 </p>
 
 <p align="center">
